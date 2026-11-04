@@ -25,7 +25,7 @@ Material que he preparado y reunido como **monitor académico de Cálculo Integr
 - [Repaso de Cálculo Integral](guias-y-repasos/calculo-integral-repaso.pdf): teorema fundamental del cálculo, integrales impropias, áreas, volúmenes y longitud de arco.
 - [Guía de sucesiones y series](guias-y-repasos/guia-series-sucesiones.pdf)
 - [Sucesiones y series (resumen)](guias-y-repasos/sucesiones-y-series-rev.pdf)
-- [Banco de ejercicios para una sesión de 1 h 40 min](guias-y-repasos/ejercicios-integrales.pdf), con formato de preguntas tipo Kahoot.
+- [Banco de ejercicios para una sesión de 1 h 40 min](guias-y-repasos/ejercicios-integrales.pdf).
 
 ### 📚 Material de estudio por tema
 
