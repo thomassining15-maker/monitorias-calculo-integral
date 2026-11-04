@@ -1,4 +1,4 @@
-# Banco de Preguntas: Taller Intensivo de Cálculo Integral (Formato IA Kahoot)
+# Banco de Preguntas: Taller Intensivo de Cálculo Integral 
 
 Este documento contiene 10 ejercicios seleccionados de nivel parcial organizados estratégicamente para ser resueltos en una sesión de monitoría de 1 hora y 40 minutos.
 
