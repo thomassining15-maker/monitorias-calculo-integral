@@ -18,14 +18,14 @@ Material que he preparado y reunido como **monitor académico de Cálculo Integr
 | [`parciales/`](parciales) | Parciales de semestres anteriores (2022-1 a 2025-1) para practicar. |
 
 ### 📝 Talleres
-- [Taller GAIA: preparación del Parcial 3](talleres/taller-gaia-calculo-integral-parcial-3.pdf) ([versión Markdown](talleres/taller-gaia-calculo-integral-parcial-3.md))
-- [Taller de series infinitas](talleres/taller-series-stewart.md), basado en el capítulo 11 de Stewart (secciones 11.2 a 11.6)
+- [Taller GAIA: preparación del Parcial 3](talleres/taller-gaia-calculo-integral-parcial-3.pdf)
+- [Taller de series infinitas](talleres/taller-series-stewart.pdf), basado en el capítulo 11 de Stewart (secciones 11.2 a 11.6)
 
 ### 📖 Guías y repasos
-- [Repaso de Cálculo Integral](guias-y-repasos/calculo-integral-repaso.pdf) ([Markdown](guias-y-repasos/calculo-integral-repaso.md)): teorema fundamental del cálculo, integrales impropias, áreas, volúmenes y longitud de arco.
-- [Guía de sucesiones y series](guias-y-repasos/guia-series-sucesiones.md)
+- [Repaso de Cálculo Integral](guias-y-repasos/calculo-integral-repaso.pdf): teorema fundamental del cálculo, integrales impropias, áreas, volúmenes y longitud de arco.
+- [Guía de sucesiones y series](guias-y-repasos/guia-series-sucesiones.pdf)
 - [Sucesiones y series (resumen)](guias-y-repasos/sucesiones-y-series-rev.pdf)
-- [Banco de ejercicios para una sesión de 1 h 40 min](guias-y-repasos/ejercicios-integrales-para-kahoot-ai.md), con formato de preguntas tipo Kahoot.
+- [Banco de ejercicios para una sesión de 1 h 40 min](guias-y-repasos/ejercicios-integrales.pdf), con formato de preguntas tipo Kahoot.
 
 ### 📚 Material de estudio por tema
 
